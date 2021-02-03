@@ -19,5 +19,4 @@ The idea is quite simple: by focusing on a specific `div` tag, the program saves
 
 Indeed, we may observe a large increase in the number of articles related to COVID-19 in the early days of the pandemic. Interestingly, the first COVID-19 cases in the Czech Republic were announced on March 1st 2020; however, we see that the boom started roughly a week later.
 
-Feel free to explore the dataset yourself, it can be found in the repository under the name `covid_articles_data.csv`.
-
+Feel free to explore and use the dataset yourself, it can be found in the repository under the name `covid_articles_data.csv`.
