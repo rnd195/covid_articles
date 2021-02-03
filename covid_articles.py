@@ -1,5 +1,3 @@
-# https://towardsdatascience.com/web-scraping-using-python-4cb2faade338
-
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from sys import exit
@@ -18,6 +16,7 @@ def replacer(text, dictionary):
 
 final_list = []
 replace_dict = {
+    # "aktualizováno" = updated
     "aktualizováno\xa0\r\n": "",
     "          ": "",
     "ledna": "Jan",
