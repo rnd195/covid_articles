@@ -1,6 +1,6 @@
 # Frequency of coronavirus-related articles on iDNES.cz
 
-Despite the [controversies](https://en.wikipedia.org/wiki/Mafra_(company)) surrounding the website, iDNES.cz is one of the most popular online-news sources in the Czech Republic with roughly [3 000 000 site visits per day](https://rating.gemius.com/cz/tree/2) . 
+Despite the [controversies](https://en.wikipedia.org/wiki/Mafra_(company)) surrounding the website's ownership, iDNES.cz is one of the most popular online-news sources in the Czech Republic with [millions of site visits per day](https://rating.gemius.com/cz/tree/2). 
 
 I was interested to see how many coronavirus-related articles was this online media outlet able to produce each day. Thankfully, they seem to tag/group articles by topic, and thus, it is possible to list only those articles that were deemed to be related to COVID-19. Even more amazingly, the pages are easily scrapable and there is a pattern in the URLs:
 
